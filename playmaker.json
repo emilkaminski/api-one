@@ -1,0 +1,21 @@
+{
+	"database":"123",
+	"adapters":[
+		{
+			"cname":"gosp",
+			"mname":"GOSPa",
+			"freq":"2"
+		},
+		{
+			"cname":"owm",
+			"mname":"OWMa",
+			"freq":"2"
+		},
+		{
+			"cname":"football",
+			"mname":"football_filea",
+			"freq":"2"
+		}
+
+	]
+}
